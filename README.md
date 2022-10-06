@@ -15,3 +15,10 @@
  <li>Python, Java, C#</li>
  <li>DevOps</li>
 </ul>
+
+<h2> Мои социальные сети:</h2>
+<ul>
+ <li>[Telegram](https://t.me/nsvk13)</li>
+ <li>Python, Java, C#</li>
+ <li>DevOps</li>
+</ul>
