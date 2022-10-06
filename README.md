@@ -21,6 +21,6 @@
  <li><a href="https://t.me/nsvk13"> Telegram</li>
  <li><a href="https://vk.com/nsvk13"> VK</li>
  <li><a href="https://discord.gg/dkjMA5tGEc"> Discord</li>
- <li><a href="https://lolz.guru/members/262416/"> LolzTeam(Guru)</li>
+ <li><a href="https://lolz.guru/members/262416/"> LolzTeam</li>
  <li><a href="https://coremc.ru/members/nukkitanuki.4/"> CoreMC</li>
 </ul>
