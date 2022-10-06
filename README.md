@@ -17,4 +17,4 @@
 </ul>
 
 <h2> Мои социальные сети:</h2>
-— (Telegram)[https://t.me/nsvk13]
+— [Telegram](https://t.me/nsvk13)
