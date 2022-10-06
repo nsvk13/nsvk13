@@ -1,4 +1,4 @@
-<h1 align="center">Привет мир! Я nsvk13. 😁</h1>
+<h1 align="center">Привет GitHub! Я nsvk13. 😁</h1>
 
 ###
 
