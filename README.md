@@ -1,4 +1,4 @@
-# Hello, i'am Enthusiast Developer.
+# Hello, i'am Enthusiast Developer. 👋
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=nsvk13" height="150" alt="stats graph"  />
@@ -7,20 +7,20 @@
 
 ---
 
-## About me:
+## About me: 👀
 
 I am an enthusiastic developer, my main hobby is programming and everything related to IT.
 <p>Besides that, I've been developing Minecraft servers for more than 5 years. My goal is to become a programmer.</p>
 
 ---
 
-## I’m currently working at:
+## I’m currently working at: 💼
 > - [Hilimiko](https://github.com/Hilimiko)
 > - [Hodwini Empire](https://github.com/Hodwini)
 > - [My website](https://github.com/nsvk13/nsvk13-page)
 
 ---
-## Tech stack:
+## Tech stack: 💻
 
 > - **Frontend:** `ReactJS` `VueJS` `Styled Components`
 > - **Backend:** `Node.js` `Flask` `MySQL MongoDB` `DigitalOcean` `GoogleCloud`
@@ -29,7 +29,7 @@ I am an enthusiastic developer, my main hobby is programming and everything rela
 
 ---
 
-## Conntect with me:
+## Conntect with me: 🗯
 
 > - [VK](https://vk.com/nsvk13)
 > - [Instagram](https://instagram.com/nsvk13)
