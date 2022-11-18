@@ -24,7 +24,7 @@ I am an enthusiastic developer, my main hobby is programming and everything rela
 
 > - **Frontend:** `ReactJS` `Styled Components`
 > - **Backend:** `Python` `Java` `Node.js` `Flask` `MySQL/MongoDB` `DigitalOcean` `GoogleCloud`
-> - **Tools:** `PyCharm` `Visual Studio Code` `Visual Studio 2022` `Sublime Text` `Adobe Photoshop` `Adobe Illustrator` `Blockbench`
+> - **Tools:** `PyCharm` `Visual Studio Code` `Visual Studio 2022` `Sublime Text` `Adobe Photoshop` `Adobe Illustrator` `Blockbench` `AutoCad`
 > - **Interesting:** `Minecraft Developing` `Social Engineering` `Climbing` `Skydiving` `Article Writing`
 
 ---
