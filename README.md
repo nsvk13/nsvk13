@@ -34,6 +34,6 @@ I am an enthusiastic developer, my main hobby is programming and everything rela
 > - [VK](https://vk.com/nsvk13)
 > - [Instagram](https://instagram.com/nsvk13)
 > - [Discord](https://discord.gg/eWYBcP9SXN)
-> - [LolzTeam](https://zelenka.guru/members/262416/)
+> - [LolzTeam](https://zelenka.guru/nsvk13/)
 > - [CoreMC](https://coremc.ru/members/nukkitanuki.4/)
 > - [SpigotRU](https://spigotmc.ru/members/nukkitanuki.5937/)
