@@ -23,7 +23,7 @@ I am an enthusiastic developer, my main hobby is programming and everything rela
 ## Tech stack: 💻
 
 > - **Frontend:** `ReactJS` `Styled Components`
-> - **Backend:** `Python` `Java` `Node.js` `Flask` `MySQL/MongoDB` `DigitalOcean` `GoogleCloud`
+> - **Backend:** `Python` `Java` `C#` `Node.js` `Flask` `MySQL/MongoDB` `DigitalOcean` `GoogleCloud`
 > - **Tools:** `PyCharm` `Visual Studio Code` `Visual Studio 2022` `Sublime Text` `Adobe Photoshop` `Adobe Illustrator` `Blockbench`
 > - **Interesting:** `Minecraft Developing` `Social Engineering` `Climbing` `Skydiving` `Article Writing`
 
