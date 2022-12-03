@@ -1,4 +1,4 @@
-# Hello, i'am Enthusiast Developer. 👋
+# Привет, я разработчик-энтузиаст. 👋
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=nsvk13" height="150" alt="stats graph"  />
@@ -7,20 +7,20 @@
 
 ---
 
-## About me: 👀
+## Немного бо мне: 👀
 
-I am an enthusiastic developer, my main hobby is programming and everything related to IT.
-<p>Besides that, I've been developing Minecraft servers for more than 5 years. My goal is to become a programmer.</p>
+Как вы поняли, я разработчик-энтузиаст и программирование моё хобби.
+<pКстати, ещё я занимаюсь разработкой Minecrft-серверов более 6 лет, ну и соответственно моя конечная цель - стать полноценным программистом.</p>
 
 ---
 
-## I’m currently working at: 💼
+## Сейчас я работаю над: 💼
 > - [Hilimiko](https://github.com/Hilimiko)
 > - [Hodwini Empire](https://github.com/Hodwini)
 > - [My website](https://github.com/nsvk13/nsvk13-page)
 
 ---
-## Tech stack: 💻
+## Мой стек технологий: 💻
 
 > - **Frontend:** `ReactJS` `Styled Components`
 > - **Backend:** `Python` `Java` `C#` `Node.js` `Flask` `MySQL/MongoDB` `DigitalOcean` `GoogleCloud`
@@ -29,7 +29,7 @@ I am an enthusiastic developer, my main hobby is programming and everything rela
 
 ---
 
-## Conntect with me: 🗯
+## Передавай мне привет: 🗯
 
 > - [VK](https://vk.com/nsvk13)
 > - [Instagram](https://instagram.com/nsvk13)
