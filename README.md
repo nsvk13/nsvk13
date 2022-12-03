@@ -18,6 +18,7 @@
 > - [Hilimiko](https://github.com/Hilimiko)
 > - [Hodwini Empire](https://github.com/Hodwini)
 > - [My website](https://github.com/nsvk13/nsvk13-page)
+> - [RuMC-Wiki](https://github.com/nsvk13/RuMC-Wiki)
 
 ---
 ## Мой стек технологий: 💻
