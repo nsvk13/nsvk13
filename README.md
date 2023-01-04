@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I am an enthusiast developer.</h1>
+<h1 align="center">Привет, я программист-энтузиаст.</h1>
 
 ###
 
-<p align="center">I do social engineering and also study front-end development. In addition to front-end development, I am also studying Computer Science.</p>
+<p align="center">Я занимаюсь социальной инженерией, а также хочу изучить Computer-Since.</p>
 
 ###
 
-<h2 align="center">The technology stack I am studying:</h2>
+<h2 align="center">Мой стек технологий, который я изучаю:</h2>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<h2 align="center">Software:</h2>
+<h2 align="center">Приложения которыми пользуюсь:</h2>
 
 ###
 
