@@ -33,11 +33,3 @@ I do social engineering and pentesting. I do rock climbing and skydiving.
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Харизма#1265" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nsvk13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/harismagg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/nsvk13"><img src="https://github-readme-stats.vercel.app/api?username=nsvk13&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ec4899&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="nsvk13's GitHub stats" /></a>
-
-<a href="https://github.com/nsvk13" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsvk13&langs_count=10&title_color=a855f7&text_color=ec4899&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
