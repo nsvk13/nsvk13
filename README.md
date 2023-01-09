@@ -11,7 +11,6 @@ I do social engineering and pentesting. I do rock climbing and skydiving.
 * ✉️  You can contact me at [nsvk13@vk.com](mailto:nsvk13@vk.com)
 * 🚀  I'm currently working on [Hilimiko](http://github.com/Hilimiko)
 * 🧠  I'm learning Home
-* ⚡  I do de-anon.
 
 ### Skills
 
