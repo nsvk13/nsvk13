@@ -26,4 +26,10 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
+<br clear="both">
+
+<div align="center">
+  <a href="https://wakatime.com/@61874845-76c1-4113-a930-212887c2bf71"><img src="https://wakatime.com/badge/user/61874845-76c1-4113-a930-212887c2bf71.svg" alt="Total time coded since Oct 30 2022" /></a>
+</div>
+
 ###
