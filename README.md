@@ -10,11 +10,7 @@
 <a href="https://www.youtube.com/user/nsvk13" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-  
 
-
-
-### Glad to see you here!  
 I'm a full stack freelance developer. I enjoy writing scalable, feature-rich and secure Backend, apart from the technical-architecture component, I like Frontend a lot, as I am a creative person myself.
 
 From hobbies I have are rock climbing, traveling, painting and developing game servers in Minecraft.
@@ -23,10 +19,6 @@ I like to communicate and collaborate with people, I am always happy and open to
   
 
 <br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 
 
