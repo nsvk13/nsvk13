@@ -22,6 +22,6 @@ I love building different stuff that can be useful both for the OpenSource commu
 # Projects list
 
 - [nsvk13.dev](https://github.com/nsvk13/nsvk13.dev) — my site portfolio building with `nextjs`, `tailwindcss`, `mdx`, `bun`
-- [TypedrasilService](https://github.com/Hodwini/TypedrasilService) — *(WIP)* my custom Yggdrasil authorization service for Minecraft, with `typescript`, `elysia`, `bun`
+- [TypedrasilService](https://github.com/Hodwini/TypedrasilService) — *(WIP)* my custom Yggdrasil authorization service for Minecraft, with `typescript`, `elysia`, `bun`, `postgresql`, `redis`, `s3`
 - [yed-extension](https://github.com/nsvk13/yed-extensions) — *(WIP)* VSCode extension for encrypting and decrypting sensitive data in YAML files
 - [dotfiles](https://github.com/nsvk13/dotfiles) — my linux environment setup
