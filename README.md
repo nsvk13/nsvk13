@@ -6,7 +6,7 @@ I'm a Nikita Simakin 22 y.o, living in Russia 🇷🇺
 - 💻 **Core Stack**: Python (wich i hate btw), JS/TS (with [Bun](https://bun.sh/)), Go, and more DevOps tools. Mainly focused on DevOps & Backend.
 - 🔥 **Interested in**: Infrastructure as Code & DevOps approach, LLM.
 
-I love building different stuff that can be useful both for the OpenSource community and regular users who are into tech.
+I adore building different stuff that can be useful both for the OpenSource community and regular users who are into tech.
 <br />I used to work on [@Hodwini](https://github.com/Hodwini), but a few years back it became more of a hobby thing. I do tons of different R&D experiments, and my playground (besides servers) is Minecraft. LOL.
 <br />Since 2016 I've been totally head over heels for programming and computer science, and I don't think I'm gonna stop anytime soon.
 
