@@ -1,8 +1,5 @@
 # Hello, <username> 👋
 
-I'm a Nikita Simakin 23 y.o, living in Russia 🇷🇺
-<br />CV: https://nsvk13.dev/cv
-
 - 💻 **Core Stack**: Python (wich i hate btw), JS/TS (with [Bun](https://bun.sh/)), Go, and more DevOps tools. Mainly focused on DevOps & Backend.
 - 🔥 **Interested in**: Infrastructure as Code & DevOps approach, LLM, IoT/Embedded.
 
