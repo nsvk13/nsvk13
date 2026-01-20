@@ -8,6 +8,7 @@
 - [yed-extension](https://github.com/nsvk13/yed-extension) — VSCode extension for encrypting and decrypting sensitive data in YAML files 
 - [bashlighter](https://github.com/bashlighter) — The VSCode extension for Highlight Bash Syntax with CI/CD Pipelines
 - [forgejo-mcp-server](https://github.com/nsvk13/forgejo-mcp-server) — Forgejo Self-Hosted Integration with Claude MCP (AI Assistant)
+- [pavelbotov](https://github.com/nsvk13/pavelbotov) - Small Discord bot for management my discord server
 
 ### Project with i'm contributed
 
