@@ -9,7 +9,7 @@
 - [bashlighter](https://github.com/nsvk13/bashlighter) — VSCode extension for Highlight Bash Syntax with CI/CD Pipelines
 - [forgejo-mcp-server](https://github.com/nsvk13/forgejo-mcp-server) — Forgejo Self-Hosted Integration with Claude MCP (AI Assistant)
 - [pavelbotov](https://github.com/nsvk13/pavelbotov) - Small Discord bot for management my discord server
-- [playnowsound(https://github.com/nsvk13/playnowsound) - A Telegram bot for sharing and discovering music across various platforms. *( my fork [nowplaying](https://github.com/es3n1n/nowplaying) )*  
+- [playnowsound](https://github.com/nsvk13/playnowsound) - A Telegram bot for sharing and discovering music across various platforms. *( my fork [nowplaying](https://github.com/es3n1n/nowplaying) )*  
 
 ### Project with i'm contributed
 
