@@ -1,5 +1,7 @@
 # Hello, <username> 👋
 
+Started with "just deploy it" and ended up deep in Kubernetes, FluxCD, and infrastructure automation. Now I build backend systems, write developer tooling, contribute to VPN monitoring projects, and connect self-hosted Git to AI assistants via MCP. TypeScript is home, Go is where I'm headed, Python is where I came from and try not to return. Big on self-hosted, privacy, and systems that don't need babysitting.
+
 - 💻 **Core Stack**: Python (wich i hate btw), JS/TS (with [Bun](https://bun.sh/)), Go, and more DevOps tools. Mainly focused on DevOps & Backend.
 - 🔥 **Interested in**: Infrastructure as Code & DevOps approach, LLM, IoT/Embedded.
 
