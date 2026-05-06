@@ -3,7 +3,7 @@
 I automate things so they don't bother me at 3am. DevOps & Backend engineer with a thing for self-hosted infrastructure, privacy-first tooling, and making CI/CD pipelines actually make sense. I write TypeScript and Go, use Bun because npm is a crime, run everything on Kubernetes, and encrypt my YAML secrets because paranoia is just good practice. Currently poking at LLM integrations and wondering why I still occasionally write Python.
 
 - 💻 **Programm Langs**: Python (wich i hate btw), Node.js, TypeScript (with [Bun](https://bun.sh/)), Go, Rust~.
-- **DevOps Stack**: Linux, Docker, Kubernetes (& Helm), CI/CD (Github Actions & Gitlab CI), Ansible, Terraform, ArgoCD, FluxCD, ELK, Grafana, Prometheus, VictoriaMetrics, Sentry, PostgreSQL, MongoDB, Redis, Kafka.
+- ⚙️ **DevOps Stack**: Linux, Docker, Kubernetes (& Helm), CI/CD (Github Actions & Gitlab CI), Ansible, Terraform, ArgoCD, FluxCD, ELK, Grafana, Prometheus, VictoriaMetrics, Sentry, PostgreSQL, MongoDB, Redis, Kafka.
 - 🔥 **Interested in**: Infrastructure as Code & DevOps approach, LLM, IoT/Embedded.
 
 ### My own projects
